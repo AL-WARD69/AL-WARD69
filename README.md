@@ -63,7 +63,7 @@
 <h2 align="center">⚒️ Tools ⚒️ </h2>
 <br/>
 <div align="center" >
-  <div align="left">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/crystal/crystal-original.svg" height="30" alt="crystal logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
