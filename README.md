@@ -8,10 +8,7 @@
 <br/>
 
 <div align="center">
- 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen                                                                                                                 
-
-
-    
+ 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen                                                                                                            
  🔭 I’m currently working on **a marketplace**
  
  👩🏻‍💻 I have many software projects in website design and desktop application development
@@ -20,7 +17,7 @@
  </div>
  
 <div align="center"> 
-  <a href="aliabdullahalward@gmail.com">
+  <a href="mailto:pedro.sales.aliabdullahalward@gmail.com ">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
