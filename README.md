@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
- 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen
+ 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen                                                                                                                 
 
 
     
