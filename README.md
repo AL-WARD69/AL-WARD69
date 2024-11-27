@@ -9,15 +9,9 @@
 
 <div align="center">
  👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen
-
-    
  🔭 I’m currently working on **a marketplace**
-
-
  👩🏻‍💻 I have many software projects in website design and desktop application development
-
-
-  💭 Currently learning about data analytics
+ 💭 Currently learning about data analytics
  </div>
  
 <div align="center"> 
