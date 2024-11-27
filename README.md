@@ -8,8 +8,8 @@
 <br/>
 
 <div align="center">
- 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen   <br/>                                                                                                         
- 🔭 I’m currently working on **a marketplace**<br/>
+ 👩🏻‍🎓 I studied software engineering at the University of Science and Technology - Yemen   <br/>  <br/>                                                                                                       
+ 🔭 I’m currently working on **a marketplace**<br/><br/>
  
  👩🏻‍💻 I have many software projects in website design and desktop application development<br/>
  
