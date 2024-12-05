@@ -80,10 +80,10 @@
   
 </div>
 
-### 🧰
+### 
 <br/>
 <hr/>
-<h2 align="center">⚒️ Database ⚒️ </h2>
+<h2 align="center">🧰 Database 🧰 </h2>
 <br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
